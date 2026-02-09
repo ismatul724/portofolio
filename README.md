@@ -1,5 +1,3 @@
-# Portfolio Website - Ahmad Rizki
-
 Portfolio website profesional yang dibangun dengan HTML, CSS, dan JavaScript murni.
 
 ## 📋 Deskripsi
@@ -121,13 +119,3 @@ Tambahkan card baru di section projects:
 ## 📝 License
 
 Project ini bebas digunakan untuk keperluan pribadi dan pembelajaran.
-
-## 👨‍💻 Author
-
-**Ahmad Rizki**
-- Email: ahmad.rizki@email.com
-- Location: Bandung, Indonesia
-
----
-
-**Note**: Ini adalah template portfolio dengan data dummy. Silakan sesuaikan dengan informasi pribadi Anda.
